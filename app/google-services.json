@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "942301266576",
+    "firebase_url": "https://socibar-2ac2a.firebaseio.com",
+    "project_id": "socibar-2ac2a",
+    "storage_bucket": "socibar-2ac2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942301266576:android:5a039651b15e0c09ae4e15",
+        "android_client_info": {
+          "package_name": "com.mugh.creditsocibar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942301266576-5rb9k5glllor190rjkt6uin7mrvccub8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5Les_bUET75tKJtERLsWfLvfV5NX_o0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942301266576-5rb9k5glllor190rjkt6uin7mrvccub8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
